@@ -1,6 +1,6 @@
 cask "idle-tapper" do
-  version "0.1.2"
-  sha256 "81482106b1943932012543a63dfc746ab371694ef2dbd5d9bc7bc56fa87ec89c"
+  version "0.2.0"
+  sha256 "e5cc41563b79f612caea8d4310867f98d92ff0df9bdabe24916bc930da69d5ae"
 
   url "https://github.com/SanditZZ/idle-tapper-macos/releases/download/v#{version}/IdleTapper-#{version}.dmg"
   name "Idle Tapper"
