@@ -11,7 +11,7 @@ cask "quotebar" do
   # should not fight it — this just keeps a fresh `brew install` current.
   auto_updates true
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "QuoteBar.app"
 
