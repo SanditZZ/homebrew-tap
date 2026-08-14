@@ -1,6 +1,6 @@
 cask "quotebar" do
-  version "0.2.0"
-  sha256 "8428c8eb6d3dfd8aa79e5e9558e5b01e2e2c79f8cf2c6551f4d0843baa24ac37"
+  version "0.4.0"
+  sha256 "55a9c51ea746d397f1d57b81a33cab56c06f220e6785f57d38aa8658e9746c56"
 
   url "https://github.com/SanditZZ/quotebar-macos/releases/download/v#{version}/QuoteBar-#{version}.dmg"
   name "QuoteBar"
